@@ -1,0 +1,16 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "autogen-agentfolio"
+version = "0.1.0"
+description = "Agent identity, trust & reputation tools for AutoGen — powered by AgentFolio & SATP"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.9"
+dependencies = ["pyautogen>=0.2"]
+
+[project.urls]
+Homepage = "https://github.com/0xbrainkid/autogen-agentfolio"
+AgentFolio = "https://agentfolio.bot"
