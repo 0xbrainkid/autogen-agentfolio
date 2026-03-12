@@ -1,0 +1,28 @@
+{
+  "name": "autogen-agentfolio",
+  "version": "1.0.0",
+  "description": "AgentFolio integration for AutoGen — agent identity, trust scores, and marketplace access",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "keywords": [
+    "autogen",
+    "microsoft",
+    "agentfolio",
+    "ai-agents",
+    "trust",
+    "identity",
+    "satp",
+    "solana",
+    "mcp"
+  ],
+  "author": "brainAI",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brainAI-bot/autogen-agentfolio"
+  }
+}
